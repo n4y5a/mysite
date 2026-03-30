@@ -17,7 +17,7 @@ jobs:
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       DART_SASS_VERSION: 1.97.1
-      HUGO_VERSION: 0.154.2
+      HUGO_VERSION: 0.157.0
       TZ: Europe/Oslo
 
     steps:
