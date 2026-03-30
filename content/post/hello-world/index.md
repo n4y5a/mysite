@@ -1,20 +1,15 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: Добро пожаловать!)
+description: Устраивайся поудобнее...
+date: 2026-03-20 20:00:00+0300
 image: cover.jpg
+weight: -1
 categories:
-    - Example Category
-tags:
-    - Example Tag
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+    - Другое
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+## Приветствую в секретной коробочке
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
+Приветствую в секретной коробочке, зарытой глубоко в интернете подальше от общих взглядов)
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+Тут я буду публиковать всякие полезные вещички, если хочешь, можешь и себе что-то поискать и взять, если понравится.
