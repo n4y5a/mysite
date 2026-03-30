@@ -15,13 +15,14 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       DART_SASS_VERSION: 1.97.1
       HUGO_VERSION: 0.154.2
       TZ: Europe/Oslo
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           submodules: recursive
           fetch-depth: 0
