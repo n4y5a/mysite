@@ -20,10 +20,16 @@ DNS адреса для доступа к ИИ из России без VPN: `83
 
 ## Программы
 
-Minecraft `Prism Launcher` лаунчер для Офф аккаунтов с удобным скачиванием модов/шейдеров/всего другого: [ссылка](https://prismlauncher.org/download?from=button)
+`Prism Launcher` - Minecraft лаунчер для Офф аккаунтов с удобным скачиванием модов/шейдеров/всего другого: [ссылка](https://prismlauncher.org/download?from=button)
 
 Мод на Discord для доступа к темам и плагинам: [ссылка](https://vencord.dev/download/)
 - Плагин для демо в 1080p - `FakeNitro`
 - Плагин для большей настройки звука (до 200/400/600/...%) - `VolumeBooster`
 
 Программа для восстановления удалённых файлов: [ссылка](https://rlab.ru/tools/rsaver.html)
+
+AmneziaVPN для Windows: [ссылка](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.14.5/AmneziaVPN_4.8.14.5_x64.exe)
+
+AmneziaVPN для Android: [ссылка](https://github.com/amnezia-vpn/amnezia-client/releases/tag/4.8.14.5) | [Страница в Play Market](https://play.google.com/store/apps/details?id=org.amnezia.vpn)
+
+Nekobox для Android (VPN если требуется ручная настройка): [ссылка](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk)
