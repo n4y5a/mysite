@@ -30,6 +30,6 @@ DNS адреса для доступа к ИИ из России без VPN: `83
 
 AmneziaVPN для Windows: [ссылка](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.14.5/AmneziaVPN_4.8.14.5_x64.exe)
 
-AmneziaVPN для Android: [ссылка](https://github.com/amnezia-vpn/amnezia-client/releases/tag/4.8.14.5) | [Страница в Play Market](https://play.google.com/store/apps/details?id=org.amnezia.vpn)
+AmneziaVPN для Android: [ссылка](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.14.5/AmneziaVPN_4.8.14.5_android9+_arm64-v8a.apk) | [Страница в Play Market](https://play.google.com/store/apps/details?id=org.amnezia.vpn)
 
 Nekobox для Android (VPN если требуется ручная настройка): [ссылка](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk)
